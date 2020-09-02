@@ -1,3 +1,6 @@
 [submodule "DNA"]
 	path = DNA
 	url = https://github.com/changlin31/DNA
+[submodule "datasets/CurveLanes"]
+	path = datasets/CurveLanes
+	url = https://github.com/xbjxh/CurveLanes
